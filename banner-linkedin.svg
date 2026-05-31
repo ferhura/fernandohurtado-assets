@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1584" height="396" viewBox="0 0 1584 396">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1a3a5c"/>
+      <stop offset="100%" stop-color="#0f2842"/>
+    </linearGradient>
+    <linearGradient id="rightGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="55%" stop-color="#1a3a5c" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#2a5478" stop-opacity="0.45"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1584" height="396" fill="url(#bgGrad)"/>
+  <rect width="1584" height="396" fill="url(#rightGlow)"/>
+
+  <g font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
+    <text x="792" y="170" font-size="54" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="0.5">Fractional CISO · AI Governance</text>
+
+    <text x="792" y="222" font-size="22" font-weight="400" fill="#e8ecf2" text-anchor="middle">Seguridad de la información y gobernanza de IA</text>
+    <text x="792" y="255" font-size="22" font-weight="400" fill="#e8ecf2" text-anchor="middle">para founders Series A-B</text>
+
+    <line x1="612" y1="290" x2="972" y2="290" stroke="#c9a55a" stroke-width="2"/>
+
+    <text x="792" y="325" font-size="17" font-weight="500" fill="#c9a55a" text-anchor="middle" letter-spacing="0.8">ISO 27001 / 42001   ·   AIGP en curso   ·   Founder de ONCE México</text>
+  </g>
+</svg>
